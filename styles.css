@@ -1,0 +1,18 @@
+body{
+    margin: 15px;
+    padding: 50px;
+    border: 2px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+hr {
+    height: 70%;
+    border: 2px solid black;
+}h2{
+    color: green;
+    font-size: medium;
+}
+h3{
+    color: rgb(112, 112, 229);
+    font-weight: bold;
+}
